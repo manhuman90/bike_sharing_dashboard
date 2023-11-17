@@ -40,3 +40,6 @@
 ### Catatan Penting:
 
 - Jika ada dependensi tambahan atau package yang dibutuhkan oleh dashboard, pastikan untuk menginstalnya sebelum menjalankan dashboard.
+
+### Streamlit Deploy
+https://bikesharingdashboard-ejdfzcs7cpahqs7paznn6c.streamlit.app
